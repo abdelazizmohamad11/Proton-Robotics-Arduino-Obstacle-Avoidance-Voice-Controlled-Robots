@@ -4,7 +4,7 @@ This project explores two versions of an Arduino-based robot designed to navigat
 
 ## **Project Overview**
 - Created by: Abdelaziz Mohamad & Tarek Ismail
-- Date of Completion: February 2023
+- Date of Completion: June 2024
 - Project Type: Arduino Robotics (Obstacle Avoidance & Voice-Controlled Robots)
   
 ---
